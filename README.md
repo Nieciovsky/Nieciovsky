@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamil</h1>
+<h1 align="center">Hello World! I'm Kamil 👋</h1>
 <h3 align="center">A motivated Junior QA learner exploring data analysis and SQL</h3>
 
 <h3 align="left">Connect with me:</h3>
