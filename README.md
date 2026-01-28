@@ -24,7 +24,7 @@ I love solving problems, learning new tools, and turning raw data into meaningfu
 <h2 align="left">🚀 Goals</h2>
 <ul>
 <li> Build hands-on projects in <b>SQL & data analysis</b></li>
-<li>Land my first role as a <b>Junior Data Analyst</b></li>
+<li>Land my first role as a <b>Junior QA Tester</b></li>
 <li>Continuously grow my <b>technical and problem-solving skills</b></li>
 </ul>
 
