@@ -1,41 +1,49 @@
 <h1 align="center">Hello World! I'm Kamil 👋</h1>
-<h3 align="center">A motivated Junior QA learner exploring data analysis and SQL</h3>
-<p align="center">I'm a <b>Junior QA & Data Analysis enthusiast</b> exploring the world of <b>SQL, testing, and data-driven insights</b>. <br> 
-I love solving problems, learning new tools, and turning raw data into meaningful information.
- </p>
-<br>
-<br>
+<h3 align="center">Aspiring QA Junior | SQL & Databases Enthusiast | Manual & Automated Testing Learner</h3>
 
-<h2> 💡 About me</h2>
+<p align="center">
+ <img src="https://img.shields.io/badge/HTML-Basics-blue?style=for-the-badge&logo=html5&logoColor=white">    <img src="https://img.shields.io/badge/SQL-Basics-blue?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/JSON-Basics-blue?style=for-the-badge&logo=json&logoColor=black"> <img src="https://img.shields.io/badge/Postman-Learning-orange?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/English-C1_Proficient-green?style=for-the-badge">
+</p> 
+
+<br><br>
+
+<h2>🧑‍💻 Get to know me better!</h2>
+<p  align="center">I am starting my journey in IT with a focus on Quality Assurance (QA), passionate about SQL, databases, and data analysis. I create test cases and bug reports as practice projects, while currently sharpening my skills in SQL, data analysis, and QA automation. I value lean code, structured learning, and practical projects, and I am always curious and eager to tackle new challenges. My goals include building hands-on projects in SQL and data analysis, landing my first role as a Junior QA Tester, and continuously growing my technical and problem-solving skills.</p>
+<br><br>
+
+
+<h2>📜 Courses & Certificates </h2>
 <ul>
-  <li> 
-  Currently sharpening my skills in <b>SQL, data analysis, and QA automation
-  </li>
-  <li>
-  Passionate about <b>lean code, structured learning, and practical projects
-  </li>
-  <li>
-    Always curious and eager to tackle <b>new challenges</b>
-  </li>
+  <li>EF SET English Certificate – C1 (68/100)</li>
+  <li>Introduction to Software Testing - Level 1</li>
+  <li>Postman Basics – REST API Testing <i>(in progress)</i></li>
+  <li>Google Data Analytics Professional Certificate <i>(in progress)</i></li>
 </ul>
 
-<br>
+<br><br>
 
-<h2 align="left">🚀 Goals</h2>
-<ul>
-<li> Build hands-on projects in <b>SQL & data analysis</b></li>
-<li>Land my first role as a <b>Junior QA Tester</b></li>
-<li>Continuously grow my <b>technical and problem-solving skills</b></li>
-</ul>
+## 🛠️ Skills 
 
-<br> <br>
+<p>
+ 🐞 <b>Manual Testing:</b> creating test cases, bug reports <br>
+ 💾 <b>Data Entry & Validation:</b> verifying records in CRM/WMS <br>
+ 💻 Web Testing: inspecting HTML elements in Chrome DevTools <br>
+ 🗄 <b>SQL:</b> basics including SELECT, FROM, WHERE, ORDER BY, INSERT INTO, UPDATE <br>
+ 🗣 <b>Languages:</b> English C1 – professional communication
+</p>
+<br><br>
+
+
+## 📝 Check out what I learned!
+### QA Basics - Practice Repository
+Explore my practical exercises in QA, including **test cases** and **bug reports**: [View Repository](test-case/OLX/test-login)
+
+### SQL Basics – Practice Repository
+This repository contains basic SQL queries created to practice: [View Repository](sql-basics-practice) 
+
+<br><br>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://linkedin.com/in/kamilniec01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamilniec01" height="30" width="40" /></a>
 </p>
-
-<br>
-
-<h3 align="right">Languages and Tools:</h3>
-<p align="right"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
