@@ -35,10 +35,10 @@
 
 
 ## 📝 Check out what I've learned!
-### QA Manual Tests and Bug Reports - Practice Repository
+### QA Testing Portfolio - Test Cases, Bug Reports & more...
 Explore my practical exercises in QA, including **test cases** and **bug reports**: [View Repository](https://github.com/Nieciovsky/bug-reports-and-test-cases)
 
-### SQL Basics – Practice Repository
+### SQL Data Bases & Analytics – Practice Repository
 This repository contains basic SQL queries created to practice: [View Repository](https://github.com/Nieciovsky/sql-basics-practice) 
 
 <br><br>
