@@ -27,7 +27,7 @@
 
 ## 📜 Certifications & Courses
 
-![Cert Badge](https://img.shields.io/badge/Certified-QA%20Basics-green) ![Cert Badge](https://img.shields.io/badge/In%20Progress-Postman%20&%20Analytics-yellow)<br>
+![Cert Badge](https://img.shields.io/badge/Certified-QA%20Basics-green) ![Cert Badge](https://img.shields.io/badge/In%20Progress-Postman%20&%20Analytics-yellow) ![Cert Badge](https://img.shields.io/badge/In%20Progress-Google%Data%Analytics%Professional-yellow)<br>
 
 - **EF SET English Certificate – C1 (68/100)** (2025): Confirmation of fluent professional English.  
 - **Introduction to Software Testing - Level 1** (2026): Basics of QA, test types/stages, preparing and executing test cases.  
