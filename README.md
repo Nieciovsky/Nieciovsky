@@ -43,8 +43,8 @@
 ## 🚀 Projects & Portfolio
 
 Check out my hands-on projects to see my skills in action:  
-- **[SQL Queries and Analysis](https://github.com/Nieciovsky/sql-queries-and-analysis)**: Portfolio with SQL exercises, queries, and mini-analyses (e.g., Polish car market with 8000+ rows). Focus on clean queries, aggregates, JOINs, and real Kaggle datasets.  
-- **[QA Testing Portfolio](https://github.com/Nieciovsky/qa-testing-portfolio)**: Manual testing projects, including test cases and bug reports (e.g., OLX.pl login/UX testing with 18 cases and 2 bugs). Templates for documentation and plans for automation.
+- **[SQL Queries and Analysis](https://github.com/Nieciovsky/sql-queries-and-analysis)**: Portfolio with SQL exercises, queries, and mini-analyses (e.g., Polish car market with 200.000+ rows). Focus on clean queries, aggregates, JOINs, and real Kaggle datasets.  
+- **[QA Testing Portfolio](https://github.com/Nieciovsky/qa-testing-portfolio)**: Manual testing projects, including test cases and bug reports (e.g., OLX.pl login/UX testing with 25+ cases and bugs). Templates for documentation and plans for automation.
 
 I'm building more – open to feedback!<br><br>
 
