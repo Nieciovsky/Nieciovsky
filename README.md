@@ -1,8 +1,9 @@
 <!-- ![Header Banner](https://via.placeholder.com/1200x200?text=Kamil+Nie%C4%87+QA+Junior) -> Możesz zastąpić własną grafiką, np. z Canva -->
+<img width="1200" height="200" alt="KAMIL NIEĆ" src="https://github.com/user-attachments/assets/fb0ece35-24e2-4e49-9930-badb348ccac2" />
+<br><br>
 
-<h1 align="center"> Kamil Nieć </h1>
-
-<p align="center"><b>🔸 Aspiring Junior QA Tester (Manual) | SQL & Data Enthusiast | Krakow, Poland 🔸</b></p><br>
+<h1 align="right">Kamil Nieć</h1>
+<p align="right"><b>🔸 Aspiring Junior QA Tester (Manual) | SQL & Data Enthusiast | Krakow, Poland</b></p><br>
 
 
 <h2>🧑‍💻 Professional Profile</h2>
