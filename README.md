@@ -1,49 +1,73 @@
-<h1 align="center">Hello World! I'm Kamil 👋</h1>
-<h3 align="center">Aspiring QA Junior | SQL & Databases Enthusiast | Manual & Automated Testing Learner</h3>
+<!-- ![Header Banner](https://via.placeholder.com/1200x200?text=Kamil+Nie%C4%87+QA+Junior) -> Możesz zastąpić własną grafiką, np. z Canva -->
 
-<p align="center">
- <img src="https://img.shields.io/badge/HTML-Basics-blue?style=for-the-badge&logo=html5&logoColor=white">    <img src="https://img.shields.io/badge/SQL-Basics-blue?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/JSON-Basics-blue?style=for-the-badge&logo=json&logoColor=black"> <img src="https://img.shields.io/badge/Postman-Learning-orange?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/English-C1_Proficient-green?style=for-the-badge">
-</p> 
+<h1 align="center"> Kamil Nieć </h1>
 
-<br><br>
-
-<h2>🧑‍💻 Get to know me better!</h2>
-<p  align="center">I am starting my journey in IT with a focus on Quality Assurance (QA), passionate about SQL, databases, and data analysis. I create test cases and bug reports as practice projects, while currently sharpening my skills in SQL, data analysis, and QA automation. I value lean code, structured learning, and practical projects, and I am always curious and eager to tackle new challenges. My goals include building hands-on projects in SQL and data analysis, landing my first role as a Junior QA Tester, and continuously growing my technical and problem-solving skills.</p>
-<br><br>
+<p align="center"><b>🔸 Aspiring Junior QA Tester (Manual) | SQL & Data Enthusiast | Krakow, Poland 🔸</b></p><br>
 
 
-<h2>📜 Courses & Certificates </h2>
-<ul>
-  <li>EF SET English Certificate – C1 (68/100)</li>
-  <li>Introduction to Software Testing - Level 1</li>
-  <li>Postman Basics – REST API Testing <i>(in progress)</i></li>
-  <li>Google Data Analytics Professional Certificate <i>(in progress)</i></li>
-</ul>
-
-<br><br>
-
-## 🛠️ Skills 
-
-<p>
- 🐞 <b>Manual Testing:</b> creating test cases, bug reports <br>
- 💾 <b>Data Entry & Validation:</b> verifying records in CRM/WMS <br>
- 💻 Web Testing: inspecting HTML elements in Chrome DevTools <br>
- 🗄 <b>SQL:</b> basics including SELECT, FROM, WHERE, ORDER BY, INSERT INTO, UPDATE <br>
- 🗣 <b>Languages:</b> English C1 – professional communication
-</p>
-<br><br>
+<h2>🧑‍💻 Professional Profile</h2>
+<p>Experienced in office and operational environments in Poland and abroad (US, DE, NL). Skilled in data verification in CRM/WMS systems and Excel (daily summaries, data organization, deviation reporting). Proficient in working with procedures, quality control, and documenting inconsistencies. Starting a career in software testing (manual QA) in office or hybrid settings, with plans to develop towards automated testing in JavaScript.</p><br>
 
 
-## 📝 Check out what I've learned!
-### QA Testing Portfolio - Test Cases, Bug Reports & more...
-Explore my practical exercises in QA, including **test cases** and **bug reports**: [View Repository](https://github.com/Nieciovsky/bug-reports-and-test-cases)
+<h2>🛠️ Skills </h2>
 
-### SQL, Data Bases & Analytics – Practice Repository
-This repository contains basic SQL queries created to practice: [View Repository](https://github.com/Nieciovsky/sql-basics-practice) 
 
-<br><br>
+![Skills Badge](https://img.shields.io/badge/SQL-Beginner-green) ![Skills Badge](https://img.shields.io/badge/QA-Manual-yellow) ![Skills Badge](https://img.shields.io/badge/English-C1-blue)<br>
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-<a href="https://linkedin.com/in/kamilniec01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamilniec01" height="30" width="40" /></a>
-</p>
+- **Data Entry & Verification**: CRM/WMS record validation.
+- **Web Inspection**: HTML elements in Chrome DevTools.
+- **SQL Basics**: SELECT, FROM, WHERE, ORDER BY, INSERT INTO, UPDATE.
+- **Reporting & Documentation**: Deviation and inconsistency logging.
+- **API Analysis**: Reading and analyzing JSON structures (API payloads).
+- **Languages**: English C1 – international communication.
+- **Other**: Test case creation, bug reporting, basic data analysis in Excel/SQL.<br><br>
+
+
+## 🔥 Professional Experience
+
+### E.ON Polska S.A. (2021–2022)
+*⚡ Junior Sales & Analysis Specialist / Team Leader*
+
+- Managed and validated 250+ CRM records monthly, ensuring data accuracy and reporting inconsistencies.
+- Analyzed sales performance and renewable energy (OZE) investment profitability using Excel; prepared forecasts and variance reports.
+- Prepared and presented B2B and B2C commercial offers, translating analytical results into business recommendations
+
+### METEOR GmbH, Germany (2022–2023)  
+*⚡ Junior Warehouse Logistics Specialist*
+- Processed and validated data in warehouse management systems (80+ containers/day), ensuring stock and location accuracy.
+- Analyzed operational data deviations and optimized logistics processes, reducing product search time by 5%.
+- Collaborated within an international team, strengthening communication and reporting skills.
+
+### K. Niec BOUW, Netherlands (2023–2025)  
+*⚡ Owner / Roofing Projects Specialist*
+- Led and coordinated a 5+ person team, planning materials and schedules; reduced project completion time by 20% while maintaining quality standards.
+- Supervised execution quality, maintained project documentation, and reported progress to stakeholders.
+- Optimized operational workflows, ensuring process compliance and safety standards.<br><br>
+
+## 📜 Certifications & Courses
+
+![Cert Badge](https://img.shields.io/badge/Certified-QA%20Basics-green) ![Cert Badge](https://img.shields.io/badge/In%20Progress-Postman%20&%20Analytics-yellow)<br>
+
+- **EF SET English Certificate – C1 (68/100)** (2025): Confirmation of fluent professional English.  
+- **Introduction to Software Testing - Level 1** (2026): Basics of QA, test types/stages, preparing and executing test cases.  
+- **Postman Basics - REST API Testing** (In Progress): Sending/validating GET, POST, DELETE requests, analyzing JSON responses.  
+- **Google Data Analytics Professional Certificate** (In Progress): Data analysis in Excel/SQL, reporting and visualization in Tableau.<br><br>
+
+
+## 🏆 Awards & Recognitions
+
+- **MPR Sales Award** (2022): Recognition for high sales results and effective team work.  
+- **MPR Rising Star Award** (2022): Award for leadership potential, initiative, and managerial skill development.<br><br>
+
+## 🚀 Projects & Portfolio
+
+Check out my hands-on projects to see my skills in action:  
+- **[SQL Queries and Analysis](https://github.com/Nieciovsky/sql-queries-and-analysis)**: Portfolio with SQL exercises, queries, and mini-analyses (e.g., Polish car market with 8000+ rows). Focus on clean queries, aggregates, JOINs, and real Kaggle datasets.  
+- **[QA Testing Portfolio](https://github.com/Nieciovsky/qa-testing-portfolio)**: Manual testing projects, including test cases and bug reports (e.g., OLX.pl login/UX testing with 18 cases and 2 bugs). Templates for documentation and plans for automation.
+
+I'm building more – open to feedback!<br><br>
+
+## ✉️ Contact Me
+
+Feel free to reach out for collaborations, QA opportunities, or suggestions. Open an issue here or connect via LinkedIn/Email. <br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kamilniec01-blue?logo=linkedin)](https://linkedin.com/in/kamilniec01/) [![GitHub](https://img.shields.io/badge/GitHub-Nieviovsky-black?logo=github)](https://github.com/Nieviovsky) [![Email](https://img.shields.io/badge/Email-kamil.niec%40int.pl-green?logo=gmail)](mailto:kamil.niec@int.pl) [![Phone](https://img.shields.io/badge/Phone-+48%20669%20511%20446-blue?logo=phone)]()
