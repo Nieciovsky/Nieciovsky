@@ -23,26 +23,6 @@
 - **Other**: Test case creation, bug reporting, basic data analysis in Excel/SQL.<br><br>
 
 
-## 🔥 Professional Experience
-
-### E.ON Polska S.A. (2021–2022)
-*⚡ Junior Sales & Analysis Specialist / Team Leader*
-
-- Managed and validated 250+ CRM records monthly, ensuring data accuracy and reporting inconsistencies.
-- Analyzed sales performance and renewable energy (OZE) investment profitability using Excel; prepared forecasts and variance reports.
-- Prepared and presented B2B and B2C commercial offers, translating analytical results into business recommendations
-
-### METEOR GmbH, Germany (2022–2023)  
-*⚡ Junior Warehouse Logistics Specialist*
-- Processed and validated data in warehouse management systems (80+ containers/day), ensuring stock and location accuracy.
-- Analyzed operational data deviations and optimized logistics processes, reducing product search time by 5%.
-- Collaborated within an international team, strengthening communication and reporting skills.
-
-### K. Niec BOUW, Netherlands (2023–2025)  
-*⚡ Owner / Roofing Projects Specialist*
-- Led and coordinated a 5+ person team, planning materials and schedules; reduced project completion time by 20% while maintaining quality standards.
-- Supervised execution quality, maintained project documentation, and reported progress to stakeholders.
-- Optimized operational workflows, ensuring process compliance and safety standards.<br><br>
 
 ## 📜 Certifications & Courses
 
@@ -66,6 +46,27 @@ Check out my hands-on projects to see my skills in action:
 - **[QA Testing Portfolio](https://github.com/Nieciovsky/qa-testing-portfolio)**: Manual testing projects, including test cases and bug reports (e.g., OLX.pl login/UX testing with 18 cases and 2 bugs). Templates for documentation and plans for automation.
 
 I'm building more – open to feedback!<br><br>
+
+## 🔥 Professional Experience
+
+### E.ON Polska S.A. (2021–2022)
+*⚡ Junior Sales & Analysis Specialist / Team Leader*
+
+- Managed and validated 250+ CRM records monthly, ensuring data accuracy and reporting inconsistencies.
+- Analyzed sales performance and renewable energy (OZE) investment profitability using Excel; prepared forecasts and variance reports.
+- Prepared and presented B2B and B2C commercial offers, translating analytical results into business recommendations
+
+### METEOR GmbH, Germany (2022–2023)  
+*⚡ Junior Warehouse Logistics Specialist*
+- Processed and validated data in warehouse management systems (80+ containers/day), ensuring stock and location accuracy.
+- Analyzed operational data deviations and optimized logistics processes, reducing product search time by 5%.
+- Collaborated within an international team, strengthening communication and reporting skills.
+
+### K. Niec BOUW, Netherlands (2023–2025)  
+*⚡ Owner / Roofing Projects Specialist*
+- Led and coordinated a 5+ person team, planning materials and schedules; reduced project completion time by 20% while maintaining quality standards.
+- Supervised execution quality, maintained project documentation, and reported progress to stakeholders.
+- Optimized operational workflows, ensuring process compliance and safety standards.<br><br>
 
 ## ✉️ Contact Me
 
