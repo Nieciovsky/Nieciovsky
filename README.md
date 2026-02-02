@@ -72,4 +72,4 @@ I'm building more – open to feedback!<br><br>
 ## ✉️ Contact Me
 
 Feel free to reach out for collaborations, QA opportunities, or suggestions. Open an issue here or connect via LinkedIn/Email. <br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kamilniec01-blue?logo=linkedin)](https://linkedin.com/in/kamilniec01/) [![GitHub](https://img.shields.io/badge/GitHub-Nieviovsky-black?logo=github)](https://github.com/Nieviovsky) [![Email](https://img.shields.io/badge/Email-kamil.niec%40int.pl-green?logo=gmail)](mailto:kamil.niec@int.pl) [![Phone](https://img.shields.io/badge/Phone-+48%20669%20511%20446-blue?logo=phone)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kamilniec01-blue?logo=linkedin)](https://linkedin.com/in/kamilniec01/) [![GitHub](https://img.shields.io/badge/GitHub-Nieviovsky-black?logo=github)](https://github.com/Nieciovsky) [![Email](https://img.shields.io/badge/Email-kamil.niec%40int.pl-green?logo=gmail)](mailto:kamil.niec@int.pl) [![Phone](https://img.shields.io/badge/Phone-+48%20669%20511%20446-blue?logo=phone)]()
